@@ -18,6 +18,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > apt update && apt upgrade
 > git clone https://github.com/irfan270407/BOT-FANN
 > cd BOT-FANN
+> npm i -g cwebp && npm i -g ytdl
+> npm i && npm i got
 > bash install.sh
 > node index.js
 ```
